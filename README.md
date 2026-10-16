@@ -1,71 +1,33 @@
-
----
-
-### 📈 GitHub Analytics & Commit Activity
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=CloudTechAmit&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Stats Card" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=CloudTechAmit&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="Streak Card" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudTechAmit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="70%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
+div align="center">
+<!-- Minimalist Executive Cloud Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,60:0B3B60,100:0284C7&height=180&section=header&text=Amit%20%7C%20CloudTechAmit&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Cloud%20%26%20AWS%20Infrastructure%20%E2%80%A2%20Security%20%E2%80%A2%20DevOps%20Engineering&descAlignY=64&descSize=16" width="100%" alt="CloudTechAmit Banner"/>
+<!-- Dynamic Engineering Subtitle -->
+<a href="https://github.com/CloudTechAmit">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Resilient+%26+Scalable+Cloud+Infrastructure;AWS+Solutions+Architecture+%E2%80%A2+Security-First+Approach;Automating+Deployments+with+Linux+%26+IaC;Continuous+Hands-on+Cloud+Labs+%26+Architecture+Design" alt="Typing SVG" />
+</a>
 <br/>
-
-<!-- ==================== ACTIVITY GRAPH ==================== -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CloudTechAmit&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="CloudTechAmit Activity Graph" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CloudTechAmit/CloudTechAmit/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</div>
-
----
-
-### 🤝 Connect & Collaborate With CloudTech Amit
-
-<div align="center">
-
+<!-- Professional Status Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/CloudTechAmit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20CloudTechAmit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/Role-Cloud%20%26%20DevOps%20Enthusiast-0F172A?style=flat-square&logo=icloud&logoColor=38BDF8" alt="Role" />
+  <img src="https://img.shields.io/badge/Target-AWS%20Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Target" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Security%20%26%20IAM-0284C7?style=flat-square&logo=shield&logoColor=white" alt="Security Focus" />
+  <img src="https://komarev.com/ghpvc/?username=CloudTechAmit&style=flat-square&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
 </div>
-
 ---
-
-<!-- ==================== FOOTER DYNAMIC WAVE ==================== -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0F172A,25:0369A1,60:0284C7,85:38BDF8,100:6366F1&height=120&section=footer" width="100%" alt="Footer Wave"/>
-
-<p align="center">
-  <b>☁️ EXPLORE • BUILD • DEPLOY • SECURE</b><br/>
-  <i>Crafted with 💙 for the Cloud & DevOps Community</i>
-</p>
-
-</div>
+### 🧭 Executive Summary
+I am a **Cloud & Infrastructure Specialist** focused on designing, deploying, and securing scalable workloads on **Amazon Web Services (AWS)**. My engineering approach centers around **high availability, defense-in-depth security, and infrastructure automation**.
+- ☁️ **Cloud Architecture:** Hands-on experience with core AWS compute, storage, decoupled services, and multi-tier network topologies.
+- 🔐 **Security & Governance:** Strong emphasis on AWS IAM (Least Privilege principle), Security Groups, Network ACLs, and compliance baseline audits.
+- 🌐 **Cloud Networking:** Deep understanding of VPC peering, CIDR subnetting, Internet/NAT Gateways, and Route 53 DNS routing.
+- ⚙️ **Systems & Automation:** Proficient in Linux system administration, shell scripting, Git version control, and container fundamentals.
+---
+### 🛠️ Technical Competencies
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud & Virtualization (AWS)</h4>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
+        <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" alt="EC2" />
+        <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" alt="S3" />
