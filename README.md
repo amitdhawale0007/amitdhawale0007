@@ -1,151 +1,212 @@
+<!--
+=====================================================================
+SETUP NOTE (delete this comment block before publishing)
+=====================================================================
+1. Create a PUBLIC repository whose name EXACTLY matches your GitHub
+   username (e.g. username "amit123" -> repository "amit123").
+   Tick "Add a README file" when creating it.
+2. Replace this repository's README.md with this file.
+3. Use Find & Replace for these placeholders:
+      YOUR-USERNAME            -> your GitHub username
+      YOUR-LINKEDIN-USERNAME   -> your LinkedIn profile slug
+      https://YOUR-PORTFOLIO-URL.example -> your site (or delete the badge)
+4. Fill in every "[EDIT ...]" marker and the project placeholders.
+5. Commit to the default branch. The profile README appears on
+   https://github.com/YOUR-USERNAME
+=====================================================================
+-->
+
+<!-- ============================ HEADER ============================ -->
+
 <div align="center">
 
-<!-- Minimalist Executive Cloud Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,60:0B3B60,100:0284C7&height=180&section=header&text=Amit%20%7C%20CloudTechAmit&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Cloud%20%26%20AWS%20Infrastructure%20%E2%80%A2%20Security%20%E2%80%A2%20DevOps%20Engineering&descAlignY=64&descSize=16" width="100%" alt="CloudTechAmit Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0369a1,100:22d3ee&height=260&section=header&text=CloudTechAmit&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Computing%20%E2%80%A2%20AWS%20%E2%80%A2%20Security&descAlignY=60&descSize=20" alt="CloudTechAmit animated cloud banner" width="100%"/>
 
-<!-- Dynamic Engineering Subtitle -->
-<a href="https://github.com/CloudTechAmit">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Resilient+%26+Scalable+Cloud+Infrastructure;AWS+Solutions+Architecture+%E2%80%A2+Security-First+Approach;Automating+Deployments+with+Linux+%26+IaC;Continuous+Hands-on+Cloud+Labs+%26+Architecture+Design" alt="Typing SVG" />
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&height=50&lines=Welcome+to+my+cloud+journey;Exploring+Cloud+Computing+and+AWS;Learn+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Secure;Building+practical+cloud+projects" alt="Animated typing text: Welcome to my cloud journey, Exploring Cloud Computing and AWS, Learn, Build, Deploy, Secure, Building practical cloud projects"/>
 </a>
 
 <br/>
 
-<!-- Professional Status Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Cloud%20%26%20DevOps%20Enthusiast-0F172A?style=flat-square&logo=icloud&logoColor=38BDF8" alt="Role" />
-  <img src="https://img.shields.io/badge/Target-AWS%20Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Target" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20Security%20%26%20IAM-0284C7?style=flat-square&logo=shield&logoColor=white" alt="Security Focus" />
-  <img src="https://komarev.com/ghpvc/?username=CloudTechAmit&style=flat-square&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+<a href="https://github.com/YOUR-USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220&color=0ea5e9" alt="GitHub followers badge"/></a>
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0ea5e9&style=for-the-badge&labelColor=0b1220" alt="Profile views counter"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-Learner-22d3ee?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0b1220" alt="Cloud Computing badge"/>
+<img src="https://img.shields.io/badge/AWS-Exploring-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0b1220" alt="AWS badge"/>
 
 </div>
 
 ---
 
-### 🧭 Executive Summary
+## 👋 About Me
 
-I am a **Cloud & Infrastructure Specialist** focused on designing, deploying, and securing scalable workloads on **Amazon Web Services (AWS)**. My engineering approach centers around **high availability, defense-in-depth security, and infrastructure automation**.
+I'm **Amit**, a cloud computing enthusiast who learns by building. I'm focused on understanding how modern cloud infrastructure works and turning that knowledge into hands-on, practical projects.
 
-- ☁️ **Cloud Architecture:** Hands-on experience with core AWS compute, storage, decoupled services, and multi-tier network topologies.
-- 🔐 **Security & Governance:** Strong emphasis on AWS IAM (Least Privilege principle), Security Groups, Network ACLs, and compliance baseline audits.
-- 🌐 **Cloud Networking:** Deep understanding of VPC peering, CIDR subnetting, Internet/NAT Gateways, and Route 53 DNS routing.
-- ⚙️ **Systems & Automation:** Proficient in Linux system administration, shell scripting, Git version control, and container fundamentals.
+**What I'm interested in**
 
----
+- ☁️ Cloud computing and cloud infrastructure
+- 🟠 Amazon Web Services (AWS)
+- 🌐 Cloud networking and storage
+- 🔐 Cloud security and identity management
+- 📈 Monitoring, automation, and cost optimization
+- 🛠️ Hands-on learning through technical projects
 
-### 🛠️ Technical Competencies
+**Currently**
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>☁️ Cloud & Virtualization (AWS)</h4>
-      <p>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
-        <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" alt="EC2" />
-        <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" alt="S3" />
-        <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" alt="Lambda" />
-        <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" alt="RDS" />
-      </p>
-      <h4>🌐 Networking & Delivery</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Amazon%20VPC-8C4FFF?style=flat-square&logo=amazon-vpc&logoColor=white" alt="VPC" />
-        <img src="https://img.shields.io/badge/Route%2053-8C4FFF?style=flat-square&logo=amazon-route53&logoColor=white" alt="Route53" />
-        <img src="https://img.shields.io/badge/CloudFront%20CDN-D05C4C?style=flat-square&logo=amazon-aws&logoColor=white" alt="CloudFront" />
-        <img src="https://img.shields.io/badge/NAT%20%26%20IGW-1E293B?style=flat-square&logo=cisco&logoColor=white" alt="Gateways" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔐 Cloud Security & Compliance</h4>
-      <p>
-        <img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=flat-square&logo=amazon-iam&logoColor=white" alt="IAM" />
-        <img src="https://img.shields.io/badge/Security%20Groups%20%26%20NACL-0F766E?style=flat-square&logo=fortinet&logoColor=white" alt="SG" />
-        <img src="https://img.shields.io/badge/AWS%20KMS-DD344C?style=flat-square&logo=amazon-aws&logoColor=white" alt="KMS" />
-        <img src="https://img.shields.io/badge/CloudTrail%20Auditing-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white" alt="CloudTrail" />
-      </p>
-      <h4>⚙️ DevOps, OS & Scripting</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Linux%20Administration-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-        <img src="https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-        <img src="https://img.shields.io/badge/Docker%20Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      </p>
-    </td>
-  </tr>
-</table>
+- 🔭 Learning: `[EDIT: e.g. AWS networking fundamentals]`
+- 🌱 Building: `[EDIT: current project or lab]`
+- 📍 Location / timezone: `[EDIT or delete]`
+- 💬 Ask me about: `[EDIT: topics you are comfortable discussing]`
 
 ---
 
-### 🏗️ Architectural Focus & Practice Labs
+## 🧰 Technology Stack
 
-┌────────────────────────────────────────────────────────────────────────┐ │ AWS Well-Architected Framework │ ├──────────────────┬──────────────────┬─────────────────┬────────────────┤ │ Security │ Reliability │ Performance │ Cost-Opt │ │ • Least Privilege│ • Multi-AZ VPC │ • Auto-Scaling │ • S3 Lifecycle│ │ • Encrypted S3 │ • Health Checks │ • CDN Delivery │ • Right-Sizing│ └──────────────────┴──────────────────┴─────────────────┴────────────────┘
+> **Honesty note:** Items are grouped by *how I actually use them*. Move a technology up to "Hands-on" only once a repository demonstrates it.
 
+### ☁️ Cloud Platforms
 
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" alt="AWS, Microsoft Azure and Google Cloud Platform icons"/>
 
+| Platform | Status |
+|---|---|
+| Amazon Web Services | 🟠 Primary focus — `[EDIT: Learning / Hands-on]` |
+| Microsoft Azure | 🔵 Exploring |
+| Google Cloud Platform | 🔵 Exploring |
 
-| Practical Lab / Project | Architectural Focus | Core Technologies | Status |
-| :--- | :--- | :--- | :---: |
-| **Secure Multi-Tier VPC Deployment** | Public/Private Subnet isolation with NAT & Bastion Host | `VPC`, `EC2`, `Route Tables`, `IGW` | `Completed` |
-| **IAM Hardening & Least-Privilege Policies** | Custom JSON policies, cross-account roles, MFA enforcement | `AWS IAM`, `JSON`, `CloudTrail` | `Completed` |
-| **Static & Dynamic Web Hosting on AWS** | Highly scalable static asset distribution with S3 & CloudFront | `S3`, `CloudFront`, `ACM (SSL/TLS)` | `Active` |
-| **Automated Cloud Backup & Monitoring** | S3 lifecycle rules, CloudWatch alarms & notification triggers | `CloudWatch`, `SNS`, `Lambda`, `Bash` | `In Progress` |
+### 💻 Development and Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,html,css,js,py,bash&theme=dark" alt="Linux, Git, GitHub, HTML5, CSS3, JavaScript, Python and Bash icons"/>
+
+| Technology | Status |
+|---|---|
+| Linux, Bash | `[EDIT: Learning / Hands-on]` |
+| Git, GitHub | `[EDIT: Learning / Hands-on]` |
+| Python | `[EDIT: Learning / Hands-on]` |
+| HTML5, CSS3, JavaScript | `[EDIT: Learning / Hands-on]` |
+
+### 🧠 Cloud Concepts
+
+<img src="https://img.shields.io/badge/EC2-Compute-FF9900?style=flat-square&logo=amazonec2&logoColor=white&labelColor=0b1220" alt="Amazon EC2 badge"/>
+<img src="https://img.shields.io/badge/S3-Storage-569A31?style=flat-square&logo=amazons3&logoColor=white&labelColor=0b1220" alt="Amazon S3 badge"/>
+<img src="https://img.shields.io/badge/IAM-Identity-DD344C?style=flat-square&logo=amazoniam&logoColor=white&labelColor=0b1220" alt="AWS IAM badge"/>
+<img src="https://img.shields.io/badge/VPC-Networking-8C4FFF?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0b1220" alt="Amazon VPC badge"/>
+<img src="https://img.shields.io/badge/Subnets%20%26%20Routing-Networking-0ea5e9?style=flat-square&labelColor=0b1220" alt="Subnets and routing badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Monitoring-Observability-22d3ee?style=flat-square&logo=amazoncloudwatch&logoColor=white&labelColor=0b1220" alt="Cloud monitoring badge"/>
+<img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Learning-0369a1?style=flat-square&logo=terraform&logoColor=white&labelColor=0b1220" alt="Infrastructure as Code badge"/>
+<img src="https://img.shields.io/badge/Docker-Fundamentals-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0b1220" alt="Docker fundamentals badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Security-Principles-0ea5e9?style=flat-square&logo=letsencrypt&logoColor=white&labelColor=0b1220" alt="Cloud security badge"/>
+
+| Concept | Status |
+|---|---|
+| EC2, S3, IAM, VPC | `[EDIT: Learning / Hands-on]` |
+| Subnets and routing | `[EDIT: Learning / Hands-on]` |
+| Cloud monitoring | `[EDIT: Learning / Hands-on]` |
+| Infrastructure as Code | 🌱 Learning |
+| Docker fundamentals | 🌱 Learning |
+| Cloud security | `[EDIT: Learning / Hands-on]` |
 
 ---
 
-### 📊 Engineering Activity & Metrics
+## 🗺️ Cloud Learning Roadmap
+
+```mermaid
+flowchart LR
+    A["☁️ Cloud<br/>Fundamentals"] --> B["💾 Compute<br/>and Storage"]
+    B --> C["🌐 Cloud<br/>Networking"]
+    C --> D["🔐 IAM and<br/>Cloud Security"]
+    D --> E["📈 Monitoring and<br/>Cost Optimization"]
+    E --> F["⚙️ Automation and<br/>Infrastructure as Code"]
+    F --> G["🚀 Practical<br/>Cloud Projects"]
+
+    classDef step fill:#0b1220,stroke:#22d3ee,stroke-width:2px,color:#e0f2fe;
+    classDef goal fill:#0369a1,stroke:#22d3ee,stroke-width:2px,color:#ffffff;
+    class A,B,C,D,E,F step;
+    class G goal;
+```
+
+### ✅ Progress Checklist
+
+Tick items as you complete them (`[x]`).
+
+- [ ] Cloud Fundamentals — shared responsibility, regions, availability zones
+- [ ] Compute and Storage — EC2, S3, EBS
+- [ ] Cloud Networking — VPC, subnets, route tables, security groups
+- [ ] IAM and Cloud Security — users, roles, policies, MFA
+- [ ] Monitoring and Cost Optimization — CloudWatch, budgets, billing alerts
+- [ ] Automation and Infrastructure as Code
+- [ ] Practical Cloud Projects — build, document, and publish
+
+---
+
+## 🚀 Projects Showcase
+
+📂 **[Browse all my repositories →](https://github.com/YOUR-USERNAME?tab=repositories)**
+
+> 📌 **Reminder:** Pin your strongest three to six repositories on your profile (*Customize your pins*) so they appear right below this README.
+
+> Replace each placeholder below with a real project. Only list a project as **Complete** if it is finished.
+
+| # | Project | Description | Tech Stack | Status | Link |
+|---|---|---|---|---|---|
+| 1 | `[EDIT: Project name]` | `[EDIT: one-line description]` | `[EDIT]` | `[Planned / In progress / Complete]` | [Repo](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-1) |
+| 2 | `[EDIT: Project name]` | `[EDIT: one-line description]` | `[EDIT]` | `[Planned / In progress / Complete]` | [Repo](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-2) |
+| 3 | `[EDIT: Project name]` | `[EDIT: one-line description]` | `[EDIT]` | `[Planned / In progress / Complete]` | [Repo](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-3) |
+| 4 | *(optional)* | | | | |
+| 5 | *(optional)* | | | | |
+| 6 | *(optional)* | | | | |
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=CloudTechAmit&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="GitHub Overview" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=CloudTechAmit&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudTechAmit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" alt="Languages Matrix" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-### 🎯 Certification Roadmap
-
-- [x] **Cloud Computing & AWS Fundamentals** (Core architecture & services)
-- [ ] **AWS Certified Solutions Architect – Associate (SAA-C03)** *(Target: Q2/Q3)*
-- [ ] **HashiCorp Certified: Terraform Associate** *(Infrastructure as Code)*
-- [ ] **AWS Certified Security – Specialty** *(Advanced IAM & Security engineering)*
-
----
-
-### 📬 Professional Network & Contact
-
-<div align="center">
-
-I am actively open to discussing cloud architecture, infrastructure security, and entry/mid-level cloud opportunities.
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=0ea5e9&text_color=e2e8f0" alt="GitHub profile statistics card" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=0b1220&title_color=22d3ee&text_color=e2e8f0" alt="Most used programming languages card" height="170"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Amit%20(CloudTechAmit)-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://github.com/CloudTechAmit" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-CloudTechAmit-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Inquiries%20%26%20Collaboration-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=dark&hide_border=true&background=0b1220&ring=0ea5e9&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub contribution streak card"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub profile trophies"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0b1220&color=22d3ee&line=0ea5e9&point=ffffff&area=true&area_color=0369a1&hide_border=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+<sub>ℹ️ These graphics are generated live by third-party services. They may be temporarily unavailable, slow, or rate-limited, and they only reflect public GitHub activity. Nothing here is manually edited.</sub>
+
+---
+
+## 🔐 Cloud Security Principles
+
+| Principle | What it means in practice |
+|---|---|
+| 🔑 **Least-privilege access** | Grant only the permissions a user, role, or service needs — nothing more |
+| 🪪 **Secure identity and access management** | Use MFA, roles over long-lived users, and regular permission reviews |
+| 🗝️ **Secret and credential protection** | Never commit keys or tokens; use secret managers and environment variables |
+| 🌐 **Secure network configuration** | Restrictive security groups, private subnets, and minimal open ports |
+| 📜 **Monitoring and logging** | Enable audit logs and alerts to detect unusual activity early |
+| 💰 **Cost awareness** | Set budgets and billing alerts, tag resources, and clean up unused ones |
+
+---
+
+## 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR--USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile link"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile link"/></a>
+<a href="https://YOUR-PORTFOLIO-URL.example"><img src="https://img.shields.io/badge/Portfolio-Visit-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b1220" alt="Portfolio website link"/></a>
 
 <br/><br/>
 
-<sub>© CloudTech Amit • Designed for Engineering Rigor & Scalability</sub>
+**⭐ Learn • Build • Deploy • Secure ⭐**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0369a1,100:020617&height=140&section=footer&animation=fadeIn" alt="CloudTechAmit animated footer banner" width="100%"/>
 
 </div>
