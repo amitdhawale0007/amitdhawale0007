@@ -1,169 +1,134 @@
 ::: {align="center"}
 # ☁️ CloudTechAmit
 
-### Exploring Cloud Computing • AWS • Cloud Security
+### CLOUD COMPUTING • AWS • CLOUD SECURITY
 
-Building practical cloud projects and learning how to design, deploy,
-monitor, and secure modern cloud infrastructure.
+**Learning the cloud. Building solutions. Securing what matters.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/)
-[![Cloud](https://img.shields.io/badge/Focus-Cloud%20Computing-0A66C2?style=for-the-badge&logo=icloud&logoColor=white)](#)
-[![Learning](https://img.shields.io/badge/Currently-Learning-2EA44F?style=for-the-badge)](#)
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=180&section=header&text=Welcome%20to%20my%20Cloud%20World&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=Explore%20%E2%80%A2%20Build%20%E2%80%A2%20Deploy%20%E2%80%A2%20Secure&descAlignY=60&descSize=15" width="100%" alt="Cloud-themed profile banner"/>`{=html}
+
+[![GitHub
+followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=for-the-badge&logo=github&color=0ea5e9)](https://github.com/YOUR-USERNAME?tab=followers)
+[![Profile
+views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS)](https://github.com/YOUR-USERNAME)
+[![Cloud
+Computing](https://img.shields.io/badge/Focus-Cloud%20Computing-0369A1?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/YOUR-USERNAME)
 :::
 
 ------------------------------------------------------------------------
 
 ## 👋 About Me
 
-Hi, I'm **Amit** --- a technology enthusiast exploring **Cloud
-Computing, AWS, networking, and cloud security**. I enjoy learning by
-building projects, documenting what I discover, and improving my
-understanding of real-world infrastructure.
+Hi, I'm **Amit** --- a technology enthusiast interested in **Cloud
+Computing, AWS, cloud infrastructure, and cloud security**.
 
--   ☁️ Interested in cloud platforms, scalable infrastructure, and
-    cloud-native services.
--   🔐 Learning cloud security fundamentals, identity and access
-    management, and secure storage practices.
--   🌐 Exploring networking concepts such as VPCs, subnets, routing, and
-    security groups.
--   🛠️ Building hands-on projects to turn theory into practical skills.
--   📚 Always learning and improving through documentation, labs, and
-    experimentation.
+I am building my skills through hands-on practice, personal projects,
+and continuous learning. I enjoy understanding how applications are
+deployed, how cloud resources communicate, and how infrastructure can be
+designed more securely and efficiently.
 
-> **Profile goal:** Learn cloud technologies by building practical,
-> well-documented projects.
+-   ☁️ Exploring cloud platforms and core cloud concepts
+-   🖥️ Learning compute, storage, networking, and deployment
+-   🔐 Developing an understanding of cloud security and IAM
+-   📊 Interested in monitoring, reliability, and cost optimization
+-   🛠️ Turning what I learn into practical projects
+-   🌱 Continuously improving through labs and documentation
 
-## 🧰 Technology & Learning Roadmap
+## ☁️ Cloud & Technology Stack
 
-> This section describes learning areas, not claims of professional
-> experience. Update it as skills are practiced.
+> These are my learning and interest areas. I will update this section
+> as I gain hands-on experience.
 
-  -----------------------------------------------------------------------
-  Area                                Topics
-  ----------------------------------- -----------------------------------
-  Cloud platform                      AWS fundamentals, regions,
-                                      availability zones
+### Cloud & Infrastructure
 
-  Compute                             Amazon EC2, virtual machines,
-                                      scaling concepts
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>`{=html}
+`<img src="https://img.shields.io/badge/Cloud%20Computing-0369A1?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Computing"/>`{=html}
+`<img src="https://img.shields.io/badge/Networking-0F766E?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>`{=html}
+```{=html}
+</p>
+```
+### Tools & Development
 
-  Storage                             Amazon S3, object storage, access
-                                      permissions
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>`{=html}
+`<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>`{=html}
+`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
+`<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>`{=html}
+`<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>`{=html}
+`<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>`{=html}
+```{=html}
+</p>
+```
+### Concepts I'm Exploring
 
-  Networking                          VPC, subnets, route tables,
-                                      internet gateways, security groups
+`AWS EC2` · `Amazon S3` · `IAM` · `VPC` · `Subnets` · `Security Groups`
+· `Cloud Monitoring` · `Linux` · `Cloud Security` · `Cost Optimization`
 
-  Identity & security                 IAM users, roles, policies,
-                                      least-privilege access
+## 🚀 What I'm Working Toward
 
-  Monitoring                          Amazon CloudWatch, logs, metrics,
-                                      alerts
+-   [ ] Strengthen cloud computing fundamentals
+-   [ ] Practice AWS compute, storage, networking, and IAM
+-   [ ] Build and document cloud-related projects
+-   [ ] Learn cloud monitoring and cost management
+-   [ ] Explore Infrastructure as Code and automation
+-   [ ] Understand cloud security best practices
 
-  Automation (next)                   Bash, Python, Terraform, CI/CD
-                                      fundamentals
+## 🧩 My Projects
 
-  Containers (future)                 Docker and container deployment
-                                      basics
-  -----------------------------------------------------------------------
+I use GitHub to document projects, experiments, and what I learn along
+the way.
 
-## 🚀 Featured Project
+**Explore my repositories:**
+[github.com/YOUR-USERNAME?tab=repositories](https://github.com/YOUR-USERNAME?tab=repositories)
 
-### ☁️ Cloud Resource & Cost Monitoring Dashboard
+> Pin your best 3--6 repositories on your GitHub profile. Add each
+> repository's name, purpose, technologies, screenshots, and setup
+> instructions to its own README. Only list projects here once they
+> actually exist.
 
-A cloud-themed dashboard concept for organizing cloud resource
-information, monitoring key metrics, and understanding estimated cloud
-spending. The starter version can run as a front-end demo; live AWS data
-requires a properly configured backend or approved AWS integration.
+## 📊 GitHub Overview
 
-**Planned features** - 📊 Overview cards for resource count, estimated
-spend, and service health. - 📈 Charts for usage and estimated cost
-trends using sample data. - 🧩 Resource table with service, region,
-status, and estimated cost. - 🔎 Search and filtering to explore
-displayed resources. - 🌙 Clean, responsive interface suitable for
-desktop and mobile. - 🔐 Security-first design notes: never expose AWS
-access keys or secrets in browser code. - 📁 Clear setup instructions
-and a roadmap for future AWS integration.
+::: {align="center"}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>`{=html}
 
-**Suggested starter stack** - HTML5 --- page structure - CSS3 ---
-responsive layout and visual styling - JavaScript --- interactions and
-sample dashboard data - Chart.js (optional) --- charts and visual
-summaries - Git & GitHub --- version control and documentation
+`<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>`{=html}
+:::
 
-**Suggested repository structure**
+## 🎯 My Approach
 
 ``` text
-cloud-resource-dashboard/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   └── images/
-├── README.md
-└── LICENSE
+Learn the fundamentals
+        ↓
+Practice hands-on
+        ↓
+Build useful projects
+        ↓
+Document the process
+        ↓
+Improve security and reliability
 ```
 
-**Run locally** 1. Clone your repository:
-`bash    git clone https://github.com/YOUR-USERNAME/cloud-resource-dashboard.git`
-2. Open the project folder. 3. Open `index.html` in your browser, or use
-the VS Code Live Server extension. 4. Explore the dashboard using its
-sample data.
+## 🤝 Connect With Me
 
-**Important:** This starter project is a demo unless a real cloud
-API/backend is implemented. Do not put AWS secret keys, access keys, or
-credentials in `script.js`, HTML, or any public repository. For a real
-deployment, use secure authentication, least-privilege IAM permissions,
-and a backend that keeps credentials private.
-
-**Roadmap** - \[ \] Create responsive dashboard layout. - \[ \] Add
-charts and sample resource data. - \[ \] Add search, filters, and status
-indicators. - \[ \] Document screenshots and design decisions. - \[ \]
-Explore a secure backend integration with AWS. - \[ \] Add tests and
-deployment documentation.
-
-> When the project is actually built, replace this concept description
-> with real screenshots, implemented features, and verified deployment
-> details.
-
-## 🔐 Cloud Security Principles I'm Learning
-
--   **Least privilege:** grant only the permissions required.
--   **Shared responsibility:** understand which security tasks belong to
-    the cloud provider and which belong to the customer.
--   **Secure storage:** avoid public access unless it is intentionally
-    required.
--   **Monitoring:** review logs, metrics, and unusual activity.
--   **Secrets management:** keep credentials out of source code and
-    public repositories.
-
-## 📌 Current Focus
-
--   [ ] Strengthen cloud computing fundamentals.
--   [ ] Practice AWS IAM, EC2, S3, and VPC concepts.
--   [ ] Build and document small cloud projects.
--   [ ] Learn cloud monitoring and basic cost awareness.
--   [ ] Explore cloud security and infrastructure automation.
-
-## 📈 GitHub Activity
-
-Add your GitHub username below to show your real profile statistics.
-These cards are optional and depend on third-party services.
-
-``` markdown
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_title=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
+```{=html}
+<p>
 ```
-
-## 🤝 Connect
-
--   **GitHub:**
-    [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
--   **LinkedIn:** Add your LinkedIn profile URL
--   **Email:** Add a professional contact email if you want it public
+`<a href="https://github.com/YOUR-USERNAME">`{=html}`<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
 
 ------------------------------------------------------------------------
 
 ::: {align="center"}
-### ☁️ Learn. Build. Secure. Improve.
+### ☁️ Explore. Build. Deploy. Secure.
 
-*Building cloud skills one project at a time.*
+*One step at a time, toward the cloud.*
 :::
